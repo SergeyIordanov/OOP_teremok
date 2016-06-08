@@ -1,27 +1,31 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EPAM_1
 {
-    abstract class Animal
+    /// <summary>
+    /// Base class for all fairy's characters
+    /// </summary>
+    abstract class Animal : IFairyObject
     {
         const string WHO = "- Теремок-теремок, кто в тереме живет?";
+
+        public string Name {
+            get { return GetType().ToString().Split('.')[1]; }
+        }
+
         public void Greet()
         {
-            Console.WriteLine("Я, " + GetType().ToString().Split('.')[1]);
+            Console.WriteLine("Я, " + Name);
         }
 
         public void Ask()
         {
-            Console.WriteLine(GetType().ToString().Split('.')[1] + " спрашивает: \n\t" + WHO);
+            Console.WriteLine(Name + " спрашивает: \n\t" + WHO);
         }
 
         public void RunThrough()
         {
-            Console.WriteLine("Бежит мимо " + GetType().ToString().Split('.')[1]);
+            Console.WriteLine("Бежит мимо " + Name);
         }
     }
 }

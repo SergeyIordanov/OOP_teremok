@@ -4,3 +4,10 @@ c:\users\serge\Documents\Visual Studio 2015\Projects\EPAM_1\EPAM_1\bin\Debug\EPA
 c:\users\serge\Documents\Visual Studio 2015\Projects\EPAM_1\EPAM_1\obj\Debug\EPAM_1.csprojResolveAssemblyReference.cache
 c:\users\serge\Documents\Visual Studio 2015\Projects\EPAM_1\EPAM_1\obj\Debug\EPAM_1.exe
 c:\users\serge\Documents\Visual Studio 2015\Projects\EPAM_1\EPAM_1\obj\Debug\EPAM_1.pdb
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\bin\Debug\EPAM_1.exe.config
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\obj\Debug\EPAM_1.exe
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\obj\Debug\EPAM_1.pdb
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\bin\Debug\EPAM_1.exe
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\bin\Debug\EPAM_1.pdb
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\obj\Debug\EPAM_1.csprojResolveAssemblyReference.cache
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\bin\Debug\doc.XML

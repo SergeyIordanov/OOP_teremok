@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EPAM_1
 {
@@ -15,6 +11,8 @@ namespace EPAM_1
             teremok.Knock(mouse);
             Frog frog = new Frog();
             teremok.Knock(frog);
+            Hare hare = new Hare();
+            teremok.Knock(hare);
             Bear bear = new Bear();
             teremok.Knock(bear);
             Console.WriteLine("Вот и сказочке конец, а кто слушал - программист.");

@@ -1,0 +1,5 @@
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\bin\Release\EPAM_1.exe.config
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\bin\Release\EPAM_1.exe
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\bin\Release\EPAM_1.pdb
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\obj\Release\EPAM_1.exe
+C:\1Sergey\4ProjectsInGit\EPAM\OOP_teremok\EPAM_1\obj\Release\EPAM_1.pdb

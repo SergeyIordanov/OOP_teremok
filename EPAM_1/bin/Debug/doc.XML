@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EPAM_1</name>
+    </assembly>
+    <members>
+        <member name="T:EPAM_1.Animal">
+            <summary>
+            Base class for all fairy's characters
+            </summary>
+        </member>
+        <member name="T:EPAM_1.IFairyObject">
+            <summary>
+            Must be implemenyed by all fairy objects (e.x. teremok or any animal)
+            </summary>
+        </member>
+        <member name="P:EPAM_1.IFairyObject.Name">
+            <summary>
+             Stands for fairy tail object name
+            </summary>
+            
+            <result>
+            Returns short name of current class
+            </result>
+        </member>
+        <member name="T:EPAM_1.Teremok">
+            <summary>
+            Represents the teremok using List functionality
+            </summary>
+        </member>
+        <member name="M:EPAM_1.Teremok.#ctor(System.String)">
+            <summary>
+            Create a teremok
+            </summary>
+            <param name="location">Place where the teremok will be initialized</param>
+        </member>
+        <member name="M:EPAM_1.Teremok.Knock(EPAM_1.Animal)">
+            <summary>
+            Implements an attempt to enter to the teremok
+            </summary>
+            <param name="animal">Animal that knocks to the teremok</param>
+        </member>
+        <member name="M:EPAM_1.Teremok.colaps">
+            <summary>
+            Destroys the teremok
+            </summary>
+        </member>
+    </members>
+</doc>

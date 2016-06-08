@@ -22,6 +22,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\doc.XML</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -44,9 +45,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
-    <Compile Include="Bear.cs" />
-    <Compile Include="Frog.cs" />
-    <Compile Include="Mouse.cs" />
+    <Compile Include="Characters\Bear.cs" />
+    <Compile Include="Characters\Frog.cs" />
+    <Compile Include="Characters\Hare.cs" />
+    <Compile Include="IFairyObject.cs" />
+    <Compile Include="Characters\Mouse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Teremok.cs" />
